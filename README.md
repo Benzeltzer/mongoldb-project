@@ -15,8 +15,7 @@
 I deployed 2 applications mongodb and mongo express.
 
 # 1) start the minikube
-'''  minikube start  
-'''
+'''minikube start'''  
 
 
 
